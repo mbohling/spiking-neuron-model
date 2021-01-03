@@ -1,18 +1,15 @@
 # The Spiking Neuron Model
 **Code Repository for The Spiking Neuron Model chapter - Coding Challenge Problems**
 
-Click the links below leading to a Jupyter Notebook with Python for each model presented in the chapter:
+Click the links below leading to the corresponding Jupyter Notebook (with Python).  There is a separate notebook for each model presented in the chapter:
 
-The Integrate-and-Fire Spiking Neuron Model: <Link 1>
+1. *The Integrate-and-Fire Spiking Neuron Model*: <Link 1>
+2. *Extending the Model - Spike-Rate Adaptation*: <Link 2>
+3. *The Hodgkin-Huxley Spiking Neuron Model*: <Link 3>
+4. *Extending the Model - Synaptic-Conductance*: <Link 4>
 
-Extending the Model - Spike-Rate Adaptation: <Link 2>
-
-The Hodgkin-Huxley Spiking Neuron Model: <Link 3>
-
-Extending the Model - Synaptic-Conductance: <Link 4>
-
-**How It Works**
-The Jupyter Notebook has both Content cells and Code cells. As you make your way through the tutorials, you MUST make sure to run each code cell as you come to them. Each code cell has a Play button next to it which will execute the code. Some code may be hidden (generally because it is more complex code not completely necessary to understand for the purposes of the chapter Coding Challenge Problems).
+## How It Works
+A Jupyter Notebook has both Content cells and Code cells. As you make your way through the tutorials, you MUST make sure to run each code cell as you come to them. Each code cell has a Play button next to it which will execute the code. (Some code may be hidden. This is generally because the code is more complex and is not necessary to understand in order to complete the model implementations and to answer the chapter Coding Challenge Problems).
 
 **IMPORTANT**: You have been provided a link to view a **copy** of the original notebooks. You will find that you can edit the content of any cell. If you accidently change a cell, such as a line of code and/or run into errors as you try to run subsequent blocks, simply refresh the page, OR go to the *Runtime menu* and select *Restart runtime*. It is also suggested that you go to the *Edit menu* and select *Clear all outputs*. This will always allow you to revert the notebook to the original version (though you will have to run each code block again.)
 
