@@ -1,8 +1,11 @@
 # The Spiking Neuron Model
 **Code Repository for The Spiking Neuron Model chapter - Coding Challenge Problems**
 
-Click the link below to visit the webpage necessary to complete the coding challenge problems from the chapter text:
-https://bit.ly/spiking-neuron-model-ccp
+Click the links below leading to a Jupyter Notebook with Python for each model presented in the chapter:
+The Integrate-and-Fire Spiking Neuron Model: <Link 1>
+Extending the Model - Spike-Rate Adaptation: <Link 2>
+The Hodgkin-Huxley Spiking Neuron Model: <Link 3>
+Extending the Model - Synaptic-Conductance: <Link 4>
 
 **How It Works**
 The Jupyter Notebook has both Content cells and Code cells. As you make your way through the tutorials, you MUST make sure to run each code cell as you come to them. Each code cell has a Play button next to it which will execute the code. Some code may be hidden (generally because it is more complex code not completely necessary to understand for the purposes of the chapter Coding Challenge Problems).
