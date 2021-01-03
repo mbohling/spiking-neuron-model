@@ -2,9 +2,13 @@
 **Code Repository for The Spiking Neuron Model chapter - Coding Challenge Problems**
 
 Click the links below leading to a Jupyter Notebook with Python for each model presented in the chapter:
+
 The Integrate-and-Fire Spiking Neuron Model: <Link 1>
+
 Extending the Model - Spike-Rate Adaptation: <Link 2>
+
 The Hodgkin-Huxley Spiking Neuron Model: <Link 3>
+
 Extending the Model - Synaptic-Conductance: <Link 4>
 
 **How It Works**
