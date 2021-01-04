@@ -3,10 +3,10 @@
 
 Click the links below leading to the corresponding Jupyter Notebook (with Python).  There is a separate notebook for each model presented in the chapter:
 
-1. *The Integrate-and-Fire Spiking Neuron Model*: <Link 1>
-2. *Extending the Model - Spike-Rate Adaptation*: <Link 2>
-3. *The Hodgkin-Huxley Spiking Neuron Model*: <Link 3>
-4. *Extending the Model - Synaptic-Conductance*: <Link 4>
+1. *The Integrate-and-Fire Spiking Neuron Model*: https://bit.ly/spiking-neuron-model-iafp1
+2. *Extending the Model - Spike-Rate Adaptation*: https://bit.ly/spiking-neuron-model-iafsrap2
+3. *The Hodgkin-Huxley Spiking Neuron Model*: https://bit.ly/spiking-neuron-model-hhp3
+4. *Extending the Model - Synaptic-Conductance*: https://bit.ly/spiking-neuron-model-iafsynp4
 
 ## How It Works
 A Jupyter Notebook has both Content cells and Code cells. As you make your way through the tutorials, you MUST make sure to run each code cell as you come to them. Each code cell has a Play button next to it which will execute the code. (Some code may be hidden. This is generally because the code is more complex and is not necessary to understand in order to complete the model implementations and to answer the chapter Coding Challenge Problems).
