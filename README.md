@@ -17,4 +17,4 @@ For each model covered in the chapter, there is a section called **Simulations f
 
 ## Content Creators
 * Maxwell E. Bohling
-* Dr. Lawrence Udeigwe
+* Lawrence C. Udeigwe, Ph.D
