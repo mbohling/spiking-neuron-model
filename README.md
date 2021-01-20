@@ -15,6 +15,5 @@ Google Colab Notebooks have both *Content* cells and *Code* cells. As you progre
 
 For each model covered in the chapter, there is a section called **Coding Challenge Problems**. This is where you will find user-interface components such as value sliders for various parameters. Use these controls to answer the questions from the text.
 
-## Content Creators
+## Content Creator
 * Maxwell E. Bohling
-* Lawrence C. Udeigwe, Ph.D
