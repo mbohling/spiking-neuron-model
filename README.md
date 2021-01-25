@@ -5,7 +5,7 @@ There is a separate notebook for each model presented in the chapter. Click the 
 
 1. *Integrate-and-Fire Spiking Neuron Model*: https://bit.ly/spiking-neuron-model-iafp1
 2. *Integrate-and-Fire with Spike-Rate Adaptation*: https://bit.ly/spiking-neuron-model-iafsrap2
-3. *The Hodgkin-Huxley Spiking Neuron Model*: https://bit.ly/spiking-neuron-model-hhp3
+3. *Hodgkin-Huxley Spiking Neuron Model*: https://bit.ly/spiking-neuron-model-hhp3
 4. *Integrate-and-Fire with Synaptic-Conductance*: https://bit.ly/spiking-neuron-model-iafsynp4
 
 ## How It Works
