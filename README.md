@@ -3,10 +3,10 @@
 
 There is a separate notebook for each model presented in the chapter. Click the links below leading to the corresponding Google Collab Notebook (with Python):
 
-1. *The Integrate-and-Fire Spiking Neuron Model*: https://bit.ly/spiking-neuron-model-iafp1
-2. *Extending the Model - Spike-Rate Adaptation*: https://bit.ly/spiking-neuron-model-iafsrap2
+1. *Integrate-and-Fire Spiking Neuron Model*: https://bit.ly/spiking-neuron-model-iafp1
+2. *Integrate-and-Fire with Spike-Rate Adaptation*: https://bit.ly/spiking-neuron-model-iafsrap2
 3. *The Hodgkin-Huxley Spiking Neuron Model*: https://bit.ly/spiking-neuron-model-hhp3
-4. *Extending the Model - Synaptic-Conductance*: https://bit.ly/spiking-neuron-model-iafsynp4
+4. *Integrate-and-Fire with Synaptic-Conductance*: https://bit.ly/spiking-neuron-model-iafsynp4
 
 ## How It Works
 Google Colab Notebooks have both *Content* cells and *Code* cells. As you progress through the notebook, you MUST make sure to run each code cell as you come to them.  Otherwise, you may run into errors when executing a code cell. Each code cell has a Play button next to it which will execute the code. (Some code may be hidden by default. This is generally because the code is more complex and is not necessary to understand in order to complete the model implementations or to answer the chapter Coding Challenge Problems).
@@ -17,3 +17,6 @@ For each model covered in the chapter, there is a section called **Coding Challe
 
 ## Content Creator
 * Maxwell E. Bohling
+
+## Content Reviewer
+* Lawrence C. Udeigwe
