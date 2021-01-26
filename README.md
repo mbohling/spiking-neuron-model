@@ -14,9 +14,3 @@ Google Colab Notebooks have both *Content* cells and *Code* cells. As you progre
 **IMPORTANT**: You have been provided a link to view a **copy** of the original notebooks. You will find that you can edit the content of any cell. If you accidently change a cell, such as a line of code and/or run into errors as you try to run subsequent blocks, simply refresh the page, OR go to the *Runtime menu* and select *Restart runtime*. It is also suggested that you go to the *Edit menu* and select *Clear all outputs*. This will always allow you to revert the notebook to the original version (though you will have to run each code block again.)
 
 For each model covered in the chapter, there is a section called **Coding Challenge Problems**. This is where you will find user-interface components such as value sliders for various parameters. Use these controls to answer the questions from the text.
-
-## Content Creator
-* Maxwell E. Bohling
-
-## Content Reviewer
-* Lawrence C. Udeigwe
